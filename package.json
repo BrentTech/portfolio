@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio built at CF during 301 course. 16 Nov 18",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrentTech/portfolio.git"
+  },
+  "author": "Brent Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrentTech/portfolio/issues"
+  },
+  "homepage": "https://github.com/BrentTech/portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
