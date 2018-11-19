@@ -126,13 +126,12 @@ h2 {
 }
 
   h2.alt {
-    color: #fff;
+    color: #888;
     text-shadow: 1px 1px #222729;
   }
 
     h2.alt strong {
       color: #666;
-
     }
 
 h3 {

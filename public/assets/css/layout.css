@@ -599,6 +599,12 @@ form select {
       background-image: url("../../images/MountainScape.jpg");
     }
 
+    /* #main section #video-background {
+      width: 100%;
+      height: 100%;
+      display: inline;
+    } */
+
     #main > section.two {
       background-color: #f5fafa;
     }
