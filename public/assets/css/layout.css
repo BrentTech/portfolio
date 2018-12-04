@@ -593,16 +593,20 @@ form select {
       background-size: cover;
       background-position: center center;
     }
-
-    #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/MountainScape.jpg");
+    
+    video {
+      width: 100%;
+      top: 0;
+      left: 0;
+      position: absolute;
+      overflow: hidden;
+      z-index: -1; 
     }
 
-    /* #main section #video-background {
-      width: 100%;
-      height: 100%;
-      display: inline;
+    /* #main > section.one {
+      background-color: #81918E;
+      background-image: url("../../images/MountainScape.jpg");
+      z-index: -2;
     } */
 
     #main > section.two {
